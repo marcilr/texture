@@ -16,3 +16,6 @@ Heavy hitters:
   The New Yorker
   Time
   Wired
+
+NOTE: The only item missing is Linux Journel that I am
+      separately subscribed to.

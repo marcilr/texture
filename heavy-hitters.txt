@@ -1,3 +1,18 @@
 heavy-hitters.txt
 Created Wed May  2 10:02:09 AKDT 2018
 Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Heavy hitters:
+  Backpacker
+  Consumer Reports
+  Costal Living
+  HGTV Magazine
+  Make
+  Maxim
+  National Geogrphic
+  Newsweek
+  Rolling Stone
+  The New Yorker
+  Time
+  Wired

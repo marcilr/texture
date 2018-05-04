@@ -5,6 +5,7 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Magazine that Texture offers
 
+
 Missing:
 o Linux Journal
 o Mother Earth News
@@ -102,13 +103,276 @@ o Women's Day
 o Women's Health
 o Wood                      <===
 o Yoga
+=======
+Magazines offered by Texture
+
+
+All Magazines
+=============
+A
+AARP The Magazine          <===
+ABC Soaps in Depth
+Adweek
+Afar
+Airbnbmag                  <===
+All About Beer             <===
+Allrecipes
+Allure
+American History
+Animal Tales
+Architectural Digest       <===
+Automobile
+
+B
+Backpacker                 <===
+Better Homes and Gardens
+Bicycling                  <===
+Bike                       <===
+Billboard
+Birds & Blooms             <===
+Bloomberg Businessweek
+Bloomberg Markets
+Boating
+Bon Appétit
+Boys' Life
+Brides
+
+C
+Canadian Cycling
+Canadian Running           <===
+Car and Driver
+CBS Soaps in Depth
+Chatelaine (English)
+Châtelaine (français)
+Clean Eating
+Closer Weekly
+CNET
+Coastal Living             <===
+Condé Nast Traveler
+Consumer Reports           <===
+Cooking Light
+Cosmopolitan
+Cottage Life
+Country Gardens            <===
+Country Living
+Cruising World             <===
+Cycle World                <===
+
+D
+Deer & Deer Hunting
+Diabetes Self-Management
+Diabetic Living
+Do-It-Yourself
+Domino
+Dwell
+
+E
+EatingWell
+Ebony                      <===
+ELLE
+ELLE Decor
+Entertainment Weekly       <===
+Entrepreneur
+ESPN The Magazine
+Esquire
+Essence
+
+F
+Family Circle
+Family Handyman            <===
+Family Tree Magazine
+FamilyFun
+Fast Company
+Field & Stream             <===
+First for Women
+Fit Pregnancy and Baby
+Flying                     <===
+Food & Wine
+Food Network Magazine
+Forbes                     <===               
+Fortune                    <===
+
+G
+Garden & Gun               <===
+Girls' Life
+Girls' World
+Glamour
+Gluten-Free Living
+Golf Digest
+Golf Magazine
+Golf Tips
+Good Housekeeping
+GQ
+GQ Style
+
+H
+Harper’s Bazaar
+Health
+Heed Magazine
+HELLO! Canada
+HGTV Magazine              <===
+History
+Hot Rod                    <===
+House & Home Magazine
+House Beautiful
+
+I
+iD Magazine
+In Touch Weekly
+Inc.
+InStyle
+Interior Design
+Interview
+
+J
+J-14
+
+L
+L'actualité
+Life & Style Weekly
+Living the Country Life
+Luxe
+
+M
+Maclean's
+Macworld
+Make:                     <===              
+Marie Claire
+Marlin
+Martha Stewart Living
+Martha Stewart Weddings
+Maxim                     <===
+Men's Health
+Men's Journal
+Midwest Living
+Modern Farmer
+Money                     <===
+Mother Jones
+Motor Trend
+Motorcyclist
+
+N
+National Geographic       <===
+National Geographic Kids
+National Geographic Little Kids
+National Geographic Traveler      <===
+National Review
+Naturally, Danny Seo
+New York Magazine         <===
+NewBeauty
+Newsweek                  <===
+
+O
+O, The Oprah Magazine
+OK!
+OUT
+Outdoor Life
+Outdoor Photographer      <===
+Outside
+Oxygen                    <===
+
+P
+Parents
+Parents Latina
+PC Magazine               <===
+PCWorld
+People                    <===
+People en Español
+Popular Mechanics         <===
+Popular Science           <===
+Popular Woodworking       <===
+Prevention
+
+R
+Rachael Ray Every Day
+Reader's Digest           <===
+Real Simple
+Redbook
+Reminisce
+Ricardo (English)
+Road & Track              <===
+Rolling Stone             <===
+Runner's World
+
+S
+Sailing World             <===
+Salt Water Sportsman      <===
+Saveur
+Seventeen
+Shape
+Shutterbug
+Simple & Delicious
+Simple Grace
+SKI                       <===
+Sky & Telescope           <===
+Smithsonian               <===
+Sound & Vision            <===
+Southern Living           <===
+Sport Fishing
+Sports Illustrated
+Sports Illustrated Kids
+STAR
+Successful Farming
+Sunset
+Surfer                    <===
+
+T
+Taste of Home
+Tennis
+Texas Monthly
+The Atlantic
+The Hollywood Reporter
+The Magnolia Journal
+The New Republic
+The New Yorker
+The Pioneer Woman
+This Old House            <===
+Time
+Today's Parent
+Town & Country
+Traditional Home
+Travel + Leisure          <===
+Truck Trend
+
+U
+Us Weekly                 <===
+
+V
+Vanity Fair
+Variety
+Veranda
+Vogue
+
+W
+W Magazine
+Weight Watchers
+Wine Enthusiast
+Wired                     <===
+Woman's Day
+Woman's World
+Women's Health
+Wood                      <===
+Working Mother
+
+Y
+Yachting                  <===
+Yoga Journal              <===
+
+--www.texture.com/all-titles/
+
+
+>>>>>>> 10bc327b480cc4046fa1688454789788ccf1f6e0
 
 
 Links
 =====
+texture 
+200+ magazines. One app.
+All Magazines
+https://www.texture.com/all-titles/
+
 texture
 Choose Everything.
 200+ magazines.
 Unlimited reading. One app.
 https://www.texture.ca/en/
-

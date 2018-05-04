@@ -3,7 +3,12 @@ Created Tue Feb  7 17:05:32 AKST 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Texture
+
+texture 
+200+ magazines. One app.
+All Magazines
+
+Got premium subscription for $9.99/month on May 3, 2018
 
 
 Everything you need to know about your plan
@@ -46,6 +51,11 @@ $14.99/mo. - Access to all monthly and weekly magazines
 
 Links
 =====
+texture 
+200+ magazines. One app.
+All Magazines
+https://www.texture.com/all-titles/
+
 texture
 Choose Everything.
 200+ magazines.

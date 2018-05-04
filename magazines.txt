@@ -5,6 +5,10 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Magazine that Texture offers
 
+Missing:
+o Linux Journal
+o Mother Earth News
+
 
 Texture magazines offered (this may not be a complete list)
 o Architectural Digest

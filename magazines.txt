@@ -7,6 +7,7 @@ Magazines offered by Texture
 
 
 Missing:
+o Climbing
 o Linux Journal
 o Mother Earth News
 
